@@ -10227,7 +10227,7 @@ OUTPUT(RTOS-Example.elf elf32-littlearm)
  .debug_line    0x0000ee2d      0xe53 src/ASF/thirdparty/freertos/freertos-10.0.0/Source/timers.o
  .debug_line    0x0000fc80     0x110a src/main.o
 
-.debug_str      0x00000000    0x9cad1
+.debug_str      0x00000000    0x9cb24
  .debug_str     0x00000000    0x8e408 src/ASF/common/services/clock/same70/sysclk.o
                               0x8eb33 (size before relaxing)
  .debug_str     0x0008e408       0x94 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
@@ -10268,8 +10268,8 @@ OUTPUT(RTOS-Example.elf elf32-littlearm)
                               0x9382c (size before relaxing)
  .debug_str     0x00099a12      0x52d src/ASF/thirdparty/freertos/freertos-10.0.0/Source/timers.o
                               0x92d71 (size before relaxing)
- .debug_str     0x00099f3f     0x2b92 src/main.o
-                              0x97355 (size before relaxing)
+ .debug_str     0x00099f3f     0x2be5 src/main.o
+                              0x97361 (size before relaxing)
 
 .debug_frame    0x00000000     0x3664
  .debug_frame   0x00000000       0x88 src/ASF/common/services/clock/same70/sysclk.o
